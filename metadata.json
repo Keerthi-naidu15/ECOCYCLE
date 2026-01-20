@@ -1,0 +1,9 @@
+
+{
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "name": "EcoCycle™: Circular Economy Logistics Platform",
+  "description": "An enterprise-grade waste logistics ecosystem connecting urban recyclers, field agents, and administrative command centers for streamlined material recovery."
+}
